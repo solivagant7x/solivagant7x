@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @solivagant7x
-- 👀 I’m interested in web and mobile developement
-- 🌱 I’m currently learning Python (I'm still a beginner !)
+- 👀 I love coding
+- 🌱 I’m currently working on a project with Java Swing and MYSQL on Netbeans IDE and Phpmyadmin
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me : on github 😁
 - 😄 Pronouns: he/him
